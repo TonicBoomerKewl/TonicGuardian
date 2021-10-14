@@ -14,8 +14,8 @@
 ### **Advanced Features:**
 - Create Custom Scripts to Automate Tasks,
 - Results Offsets Adder,
-- Value Decryption,
-- ARM & ARM64 Instructions Disassembler.
+- Games Values Decryption,
+- ARM & ARM64 Disassembler.
 
 # Full Requirements:
 - ~~A Working **Brain**, **Eyes**, **Hands**, & **Body**,~~
@@ -37,17 +37,17 @@
 > How to Buy It?
 - Add **TonicBoomerKewl#8349** on Discord (Me) to Buy.
 > Can It Mod **iOS** Games?
-- Maybe, if You Can Somehow Find An **iOS Emulator**.
+- Maybe, if You Can *Somehow* Find An **iOS Emulator**.
 > Can I have the Full List of Commands?
 - Yes, Just Use the **Help** Command to View the **Help Page** for the Full List of Commands.
-> Is It Detectable?
+> Is It **Detectable**?
 - Avoid Detection By **Not** Editing Too Many Bytes.
 - Sometimes There Are **"Trap" Values**, & Games Can Detect if Such Values are Edited.
 > Which Payment Method is Accepted?
 - Only **USA Amazon Gift Cards**.
 > Is This a Subscription?
 - No; Buy Once, Use Forever!
-> Can It Get Patched?
+> Can It Get **Patched**?
 - Depends; The Game Can Encrypt Their Values & Hide Them, or Store Data on Server-Side.
 > Is There a **Free Version**?
 - Yes, in Your Dreams.
