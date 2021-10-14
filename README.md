@@ -1,6 +1,6 @@
 # TonicGuardian Memory Editor! <img align="right" src="https://cdn.discordapp.com/avatars/203451754275143681/a_041f8c88acda3ecf5177668b4ee58a54.gif"/>
 ### By: **TonicBoomerKewl#8349**!
-- For Editing An Android Emulator's Memory from The Command Line.
+- For Editing An Android Emulator's Memory From The Command Line.
 
 # Features:
 - Use the **Help** Command for a **Full List of Commands**.
@@ -8,14 +8,16 @@
 - Search Any Value,
 - Refine Any Value,
 - Edit Any Value,
-- Hex-Patch Game Modules, (Example: **libil2cpp.so**)
+- Search & Refine & Edit Multiple Values Together,
+- Hex-Patch Games' Libraries, (Example: **libil2cpp.so**)
 - A Help Command to Show **All Commands**,
+- Commands Hotkeys,
 - **And More!** (Commands Listed In Help Page)
 ### **Advanced Features:**
 - Create Custom Scripts to Automate Tasks,
 - Results Offsets Adder,
 - Games Values Decryption,
-- ARM & ARM64 Disassembler.
+- Games' Libraries ARM & ARM64 Disassembler.
 
 # Full Requirements:
 - ~~A Working **Brain**, **Eyes**, **Hands**, & **Body**,~~
@@ -52,4 +54,4 @@
 > Is There a **Free Version**?
 - Yes, in Your Dreams.
 > Which **Android Emulators** are Supported?
-- Most Popular Ones are Supported.
+- The Most Popular Ones are Supported.
