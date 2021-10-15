@@ -6,9 +6,9 @@
 # Features:
 - Use the **Help (h)** Command for a **Full List of Commands**.
 ### **Basic Features:**
-- Search Any Value,
-- Refine Any Value,
-- Edit Any Value,
+- (Hex) Search Any Value,
+- (Hex) Refine Any Value,
+- (Hex) Edit Any Value,
 - Search & Refine & Edit Multiple Values Together, (Range)
 - Hex-Patch Games' Libraries, (Example: **libil2cpp.so**)
 - Fast-Async & Optimised Parallel Searching Algorithms,
@@ -50,14 +50,14 @@
 > Which Payment Method is Accepted?
 - Only **USA Amazon Gift Cards**.
 > Is This a Subscription?
-- No; Buy Once, Use Forever!
+- No; Just Buy Once, Use Forever!
 > Can It Get **Patched**?
 - Depends; The Game Can Encrypt Their Values & Hide Them, or Store Data on Server-Side.
 - A Server-Sided Game May Still be Modded, If the Server Doesn't Perform **Sanity Checks**.
 - With Enough Skill, Any Value Can be Decrypted, Since the Game Itself Needs Access to Its Own Values.
 > Is There a **Free Version**?
-- Yes! ~~In Your Dreams~~. Just Use **[GameGuardian](https://gameguardian.net/)**.
+- Yes! ~~In Your Dreams~~. Just Use **[GameGuardian](https://gameguardian.net/)** or **[Cheat Engine](https://www.cheatengine.org/)**.
 > Which **Android Emulators** are Supported?
 - The Most Popular Ones are Supported.
-- If Your Android Emulator isn't Supported, Contact **TonicBoomerKewl#8349** on Discord (Me) to Add Support.
-- Bad Android Emulators like **[Gameloop](https://www.gameloop.com/)** that Detects Cheating will **Not** be Supported.
+- Android Emulator Unsupported? Contact **TonicBoomerKewl#8349** on Discord (Me) to Add Support.
+- Bad Android Emulators like **[GameLoop](https://www.gameloop.com/)** that Detects Cheating will **Not** be Supported.
