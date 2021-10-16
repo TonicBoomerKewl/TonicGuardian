@@ -29,6 +29,7 @@
 - The **[Discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86) App** Installed & Logged In,
 - A Computer Running **[Windows 10](https://go.microsoft.com/fwlink/?LinkId=691209)** OS,
 - Any **Android** **[Emulator](https://www.memuplay.com/download-memu-on-pc.html)**, (No Root Required)
+- The **[Java OpenJDK](https://adoptium.net/) 17+** Installed, (Or Higher)
 - Lastly, The Knowledge of The Commands to Edit Your **Android Emulator**'s Memory. (View **Help (h)** Page)
 
 # Purchase:
