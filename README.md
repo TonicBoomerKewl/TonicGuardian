@@ -36,7 +36,7 @@
 # Purchase:
 - Buy It from **TonicBoomerKewl#8349** on Discord! (Me)
 - It Can Mod Most Android Games. (Check **FAQ** for More Information)
-- You are Not Allowed to Share the File with Anyone Else, or It will be Disabled!
+- **You are Not Allowed to Share the File with Anyone Else, or It will be Disabled!**
 
 # FAQ:
 > How to Buy It?
@@ -59,7 +59,7 @@
 - A Server-Sided Game May Still be Modded, If the Server Doesn't Perform **Sanity Checks**.
 - With Enough Skill, Any Value Can be Decrypted, Since the Game Itself Needs Access to Its Own Values.
 > Is There a **Free Version**?
-- Yes! ~~In Your Dreams~~. Use **[GameGuardian](https://gameguardian.net/)** or **[Cheat Engine](https://www.cheatengine.org/)**.
+- Yes! ~~In Your Dreams~~. Use **[GameGuardian](https://gameguardian.net/)**, or **[Cheat Engine](https://www.cheatengine.org/)**.
 > Which **Android Emulators** are Supported?
 - The Most Popular Ones are Usually Supported.
 - Unsupported Android Emulator? Contact **TonicBoomerKewl#8349** on Discord (Me) to Add Support!
@@ -69,4 +69,4 @@
 - Get a CPU with More Cores.
 - Optimise Your Scans Parameters.
 > Why is Admin Permission Needed?
-- So that **[TonicGuardian](https://github.com/TonicBoomerKewl/TonicGuardian)** has Permission to Modify Your **Android Emulator**'s Memory.
+- **[TonicGuardian](https://github.com/TonicBoomerKewl/TonicGuardian)** Requires Permission to Modify Your **Android Emulator**'s Memory.
