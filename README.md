@@ -31,7 +31,7 @@
 - A Computer Running **[Windows 10](https://go.microsoft.com/fwlink/?LinkId=691209)** OS,
 - Any **Android [Emulator](https://www.memuplay.com/download-memu-on-pc.html)**, (No Root Required)
 - The **[Java OpenJDK](https://adoptium.net/) 17+** Installed (Or Higher), & **"JAVA_HOME"** Environment Variable Set,
-- Lastly, The Knowledge of The Commands to Edit Your **Android Emulator**'s Memory. (View **Help (h)** Page)
+- Knowledge of The Commands to Edit Your **Android Emulator**'s Memory. (View **Help (h)** Page)
 
 # Purchase:
 - Buy It from **TonicBoomerKewl#8349** on Discord! (Me)
@@ -70,3 +70,5 @@
 - Optimise Your Scans Parameters.
 > Why is Admin Permission Needed?
 - **[TonicGuardian](https://github.com/TonicBoomerKewl/TonicGuardian)** Requires Permission to Modify Your **Android Emulator**'s Memory.
+> What's the Letter in Brackets?
+- It is the Shorter Version of the Command Before.
