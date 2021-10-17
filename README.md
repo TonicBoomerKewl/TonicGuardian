@@ -1,4 +1,4 @@
-# TonicGuardian Memory Editor! <img align="right" src="https://cdn.discordapp.com/avatars/203451754275143681/a_041f8c88acda3ecf5177668b4ee58a54.gif"/>
+# <ins>TonicGuardian Memory Editor!</ins> <img align="right" src="https://cdn.discordapp.com/avatars/203451754275143681/a_041f8c88acda3ecf5177668b4ee58a54.gif"/>
 ### By: **TonicBoomerKewl#8349**!
 - For Editing Any **Android Emulator**'s Memory From The Command Line.
 - Inspired By: **[GameGuardian](https://gameguardian.net/)** & **[Cheat Engine](https://www.cheatengine.org/)**.
@@ -51,24 +51,25 @@
 - Since **TonicGuardian** Edits From **Outside the Emulator**, the Game Cannot Detect **TonicGuardian** by Itself.
 > Which **Payment Method** is Accepted?
 - Currently, Only **USA Amazon Gift Cards**.
-- You're Required to Send Receipt of Your **Amazon Gift Cards** Purchase.
+- You're **Required** to Send Receipts of Your **Amazon Gift Cards** Purchase as Proof.
 > Is This a Subscription?
 - No; Just Buy Once & Use Forever!
 > Can It Get **Patched**?
 - Depends; The Game Can Encrypt Their Values & Hide Them, or Store Data on Server-Side.
 - A Server-Sided Game May Still be Modded, If the Server Doesn't Perform **Sanity Checks**.
-- With Enough Skill, Any Value Can be Decrypted, Since the Game Itself Needs Access to Its Own Values.
+- With Enough Skill, **Any Value Can be Decrypted**, Since the Game Itself Needs Access to Its Own Values.
 > Is There a **Free Version**?
 - Yes! ~~In Your Dreams~~. Use **[GameGuardian](https://gameguardian.net/)**, or **[Cheat Engine](https://www.cheatengine.org/)**.
 > Which **Android Emulators** are Supported?
 - The Most Popular Ones are Usually Supported.
-- Unsupported Android Emulator? Contact **TonicBoomerKewl#8349** on Discord (Me) to Add Support!
+- *Unsupported Android Emulator?* Contact **TonicBoomerKewl#8349** on Discord (Me) to Add Support!
 - **Bad** Android Emulators that Detects Cheating will **Not** be Supported. (Example: **[GameLoop](https://www.gameloop.com/)**)
 > How to Speed Up Scans?
 - Reduce Your **Android Emulator**'s Allocated Memory Size.
-- Get a CPU with More Cores.
-- Optimise Your Scans Parameters.
+- Get a CPU with More Cores. (Ryzen 9 5950X: **1.2 Seconds Scan**)
+- Optimise Your Scans' Parameters.
 > Why is Admin Permission Needed?
-- **[TonicGuardian](https://github.com/TonicBoomerKewl/TonicGuardian)** Requires Permission to Modify Your **Android Emulator**'s Memory.
-> What's the Letter in Brackets?
+- **[TonicGuardian](https://github.com/TonicBoomerKewl/TonicGuardian)** Requires Admin Permission to Modify Your **Android Emulator**'s Memory.
+- Right-Click on It, & Select **"Run as Administrator"**.
+> What's the Letter in Brackets After the Commands in Help Page?
 - It is the Shorter Version of the Command Before.
