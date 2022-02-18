@@ -1,4 +1,4 @@
-# <ins>TonicGuardian Memory Editor!</ins> <img align="right" src="https://cdn.discordapp.com/avatars/203451754275143681/a_041f8c88acda3ecf5177668b4ee58a54.gif"/>
+# <ins>TonicGuardian Memory Editor!</ins> <img height="128" width="128" align="right" src="https://raw.githubusercontent.com/TonicBoomerKewl/pixel-gun-3d-console-client/main/KaiCraft-Logo.png"/>
 ### By: **TonicBoomerKewl#8349**!
 - For Editing Any **Android Emulator**'s Memory From The Command Line.
 - Inspired By: **[GameGuardian](https://gameguardian.net/)** & **[Cheat Engine](https://www.cheatengine.org/)**.
